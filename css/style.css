@@ -164,7 +164,7 @@ a {
 }
 
 .toggle:hover {
-    
+    box-shadow: 5px 10px 3px black;
     background: #E42692;
 }
 
